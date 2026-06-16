@@ -503,3 +503,8 @@ Then get object distribution:
 | `steering/large-results.md` | Results are paginated or very large — need handling strategy |
 | `steering/tagging-views.md` | User asks to tag objects, create views, or attach notes |
 | `steering/meta-tool-functions.md` | Function Reference for Meta-Tool mode |
+
+## License and support
+
+- [License](https://github.com/CAST-Extend/cast-imaging-on-prem-power/blob/main/LICENSE)
+- [Support](https://help.castsoftware.com/hc/en-us)
