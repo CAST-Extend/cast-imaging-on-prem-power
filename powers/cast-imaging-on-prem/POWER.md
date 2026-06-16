@@ -1,3 +1,11 @@
+---
+name: "cast-imaging"
+displayName: "CAST Imaging"
+description: "Connect to a CAST Imaging MCP server to leverage structural intelligence about scanned codebases. Enables impact analysis, modernization assessment, quality hotspot investigation, and architecture governance using CAST Imaging's graph-based code knowledge."
+keywords: ["cast", "imaging", "structural", "transformation", "impact analysis", "reverse engineering"]
+author: "CAST Research Labs"
+---
+
 # CAST Imaging
 
 ## Overview
