@@ -1,0 +1,3 @@
+# Kiro MCP settings (contains API keys)
+.kiro/settings/mcp.json
+.env

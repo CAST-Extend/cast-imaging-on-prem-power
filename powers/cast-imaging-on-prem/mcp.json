@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    {
+      "id": "imaging-key",
+      "type": "promptString",
+      "description": "CAST Imaging API Key"
+    }
+  ],
+  "servers": {
+    "CASTImaging": {
+      "type": "http",
+      "url": "http[s]://<fqdn-or-IP-address-imaging-services-machine:[port]>/mcp",
+      "headers": {
+        "x-api-key": "${input:imaging-key}"
+      }
+    }
+  }
+}
